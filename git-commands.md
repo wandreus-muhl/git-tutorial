@@ -11,5 +11,5 @@
 | `git branch` | Lista todas as *branches* existentes no repositório atual |
 | `git checkout -b <branch>` | Cria uma nova *branch* nomeada como `<branch>` |
 | `git checkout -d <branch>` | Deleta a `<branch>` informada |
-| `git reset` | Descarta as alterações no HEAD adicionadas à área de *staging*. Nãodescarta as alterações commitadas |
+| `git reset` | Descarta as alterações no HEAD adicionadas à área de *staging*. Não descarta as alterações commitadas |
 |  |  |
